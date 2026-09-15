@@ -1,0 +1,11 @@
+- Mapping
+  - 2D top down LCD map with ship location
+  - 3D projector map with ship location
+  - course line plotting
+- In-flight orientation presets (prograde, retrograde, target, etc)
+- Straight line auto-flight
+  - Variable thrust sections
+    - Departure, main, arrival
+    - Unlimited configurable steps at some point?
+- Parabolic line auto-flight
+  - thrust sections?
